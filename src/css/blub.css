@@ -1,0 +1,30 @@
+.blub__page {
+    margin-bottom: 325px;
+}
+
+.blub__page__feed {
+    padding-right: 35px;
+}
+
+.blub__page__content {
+    width: 100%;
+    padding-right: 0;
+}
+
+.blub__page__item {
+    width: 95%;
+}
+
+.blub__item-desc .blub__page__item-desc {
+    max-width: none;
+}
+
+.header {
+    justify-content: center;
+}
+
+@media (max-width: 1000px) {
+    .header {
+        justify-content: flex-end;
+    }
+}

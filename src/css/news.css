@@ -1,0 +1,32 @@
+.main__content {
+    padding: 20px;
+    background-color: transparent;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    border: 3px solid #f97247;
+    border-radius: 15px;
+    margin-top: 140px;
+    margin-bottom: 300px;
+}
+
+.news-detail {
+    padding: 20px;
+}
+
+.news-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.news-date {
+    color: #ffffff99;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.news-article p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
